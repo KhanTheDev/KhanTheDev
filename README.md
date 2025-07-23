@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I’m Haris 👋<br><br>CS student by day, bug whisperer by night 🐛💻 — currently building smarter tools so I can do less work and call it productivity.<br>
+### Hi, I’m Haris 👋<br><br>CS student by day, bug whisperer by night 🐛💻, currently building smarter tools so I can do less work and call it productivity.<br>
 
 
 ## 🌐 Socials:
